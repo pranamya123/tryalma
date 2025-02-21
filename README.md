@@ -11,7 +11,8 @@
 7. [Technologies Used](#technologies-used)
 8. [State Management using Redux](#state-mgmt)
 9. [Mock APIs](#mock-api)
-10. [License](#license)
+10. [Test](#unit-test)
+11. [License](#license)
 
 ## Overview
 
@@ -23,6 +24,7 @@ The application includes authentication functionality and requires users to log 
 
 ## Demo
 
+Please find the demo video here- https://drive.google.com/file/d/1a22QK-XM5CMn5BR34HWjGOGxFPMoUyLN/view?usp=sharing
 Lead Form-1
 
 <img width="1440" alt="Screen Shot 2025-02-21 at 11 48 56 AM" src="https://github.com/user-attachments/assets/609ab954-618c-40ee-9a62-38becddab629" />
@@ -204,6 +206,19 @@ This simulates the process of submitting a lead, and the lead is added to the mo
 - PATCH /api/leads - Updates the status of a lead.
 
 This simulates the process of updating the lead status to "Reached Out".
+
+## Unit Test
+
+Unit tests have been written for the **Leads** page to ensure the core functionality is working as expected. These tests cover:
+
+1. **Loading State**: Verifies that the loading state is shown while fetching the leads.
+2. **Fetching and Displaying Leads**: Ensures that the leads are fetched and displayed correctly after being loaded.
+3. **Updating Lead Status**: Tests that the lead status can be updated when the respective button is clicked.
+
+The tests use React Testing Library, along with Redux for state management and Jest for mocking async actions and navigation.
+
+In the interest of time, only the unit tests for the **Leads** page have been written. Additional unit tests for other components and pages will be added if more time permits.
+
 
 ## License
 
