@@ -23,23 +23,36 @@ The application includes authentication functionality and requires users to log 
 
 ## Demo
 
-Lead Form
+Lead Form-1
+
 <img width="1440" alt="Screen Shot 2025-02-21 at 11 48 56 AM" src="https://github.com/user-attachments/assets/609ab954-618c-40ee-9a62-38becddab629" />
 
-Lead Form
+
+Lead Form-2
+
 <img width="1440" alt="Screen Shot 2025-02-21 at 11 49 03 AM" src="https://github.com/user-attachments/assets/046f1fca-a771-4274-a207-fc21f244f29e" />
 
-<img width="1440" alt="Screen Shot 2025-02-21 at 11 49 20 AM" src="https://github.com/user-attachments/assets/535cf6cb-8170-4824-83c1-2c9e4c535172" />
+
+Form Submission confirmation
 
 <img width="1440" alt="Screen Shot 2025-02-21 at 11 49 42 AM" src="https://github.com/user-attachments/assets/1c61311b-bc98-4f01-80ef-a8e54c26df46" />
 
+
 Form Validation
-<img width="1440" alt="Screen Shot 2025-02-21 at 11 53 53 AM" src="https://github.com/user-attachments/assets/737e1963-c3f0-4145-9e1b-6f3fb704fb68" />
 
 <img width="1440" alt="Screen Shot 2025-02-21 at 11 50 06 AM" src="https://github.com/user-attachments/assets/ba3a7db9-a96a-4318-bbe1-406f7f6e3d86" />
 
+
+Login Screen
+
+<img width="1440" alt="Screen Shot 2025-02-21 at 11 49 20 AM" src="https://github.com/user-attachments/assets/535cf6cb-8170-4824-83c1-2c9e4c535172" />
+
+
 Admin Leads Table
-![Screen Shot 2025-02-21 at 11 53 53 AM (2)](https://github.com/user-attachments/assets/25e4657c-af1a-4b8f-a552-01a3356e3bcb)
+
+<img width="1440" alt="Screen Shot 2025-02-21 at 11 53 53 AM" src="https://github.com/user-attachments/assets/737e1963-c3f0-4145-9e1b-6f3fb704fb68" />
+
+
 
 ## Installation
 
