@@ -117,9 +117,4 @@ We welcome contributions to improve TryAlma. Here’s how you can get started:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### Notes:
-- Replace `https://github.com/pranamya123/tryalma.git` with your actual GitHub repository URL.
-- Feel free to modify the structure of the `folder structure` section if there are additional folders or components relevant to your project.
+This project is for Alma Frontend Engineer Take Home Exercise only, if being used otherwise, please contact
