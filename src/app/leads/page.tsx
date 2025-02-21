@@ -99,11 +99,11 @@ const Leads = () => {
             {/* Sidebar */}
             <div className="w-64 bg-neutral-100 shadow-md">
                 <div className="p-4" style={{
-                    background: 'radial-gradient(circle at top left, #f0f4c3 20%, transparent)', // Adjusted gradient spread
-                    height: '120px', // Increased height
+                    background: 'radial-gradient(circle at top left, #f0f4c3 20%, transparent)', 
+                    height: '120px', 
                     display: 'flex',
                     alignItems: 'center',
-                    paddingLeft: '20px' // Ensure logo is visible
+                    paddingLeft: '20px'
                 }}>
                     <Image src="/alma-logo.png" alt="Alma Logo" width={80} height={24} />
                 </div>
