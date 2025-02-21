@@ -1,7 +1,3 @@
-Here's a well-structured README for your Next.js project that you can use as a starting point. This structure is designed to be comprehensive and easy to follow, like you would see in real-world engineering documentation:
-
----
-
 # TryAlma - Next.js Project
 
 ## Table of Contents
