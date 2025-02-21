@@ -207,5 +207,4 @@ This simulates the process of updating the lead status to "Reached Out".
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-This project is for Alma Frontend Engineer Take Home Exercise only, if being used otherwise, please contact
+This project is for Alma Frontend Engineer Take Home Exercise only, if being used otherwise, please contact Pranamya Vadlamani
