@@ -193,13 +193,15 @@ let leads = [
 ### API Endpoints
 Three API endpoints are defined:
 
-GET /api/leads - Fetches the list of leads.
+- GET /api/leads - Fetches the list of leads.
 
 This returns all the leads from the mock data.
-POST /api/leads - Submits a new lead.
+
+- POST /api/leads - Submits a new lead.
 
 This simulates the process of submitting a lead, and the lead is added to the mock data array.
-PATCH /api/leads - Updates the status of a lead.
+
+- PATCH /api/leads - Updates the status of a lead.
 
 This simulates the process of updating the lead status to "Reached Out".
 
